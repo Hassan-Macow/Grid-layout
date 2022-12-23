@@ -1,0 +1,11 @@
+
+body{
+    width: 900px;
+    background-color:rgb(177, 174, 174);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.row{
+    margin: auto;
+    display: grid;
+    grid-column: 40px;
+}
